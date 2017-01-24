@@ -1,0 +1,29 @@
+.tv {
+  background-color: #fff;
+  width: 100%;
+  height: 20rem;
+  font-size: 2rem;
+}
+
+.buttonBar {
+  background-color: #eee;
+  width: 100%;
+  height: 20rem;
+  font-size: 2rem;
+
+}
+
+.luckyList {
+  background-color: #ddd;
+  width: 100%;
+  height: 20rem;
+  font-size: 2rem;
+
+}
+
+.tuanList {
+  background-color: #ccc;
+  width: 100%;
+  height: 20rem;
+  font-size: 2rem;
+}
